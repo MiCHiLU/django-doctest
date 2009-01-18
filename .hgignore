@@ -1,0 +1,10 @@
+django_doctest_tests/django
+
+syntax: glob
+*.pyc
+*.swp
+*.tmp
+.DS_Store
+test.db
+
+syntax: regexp
